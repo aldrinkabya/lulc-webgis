@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Data / large files — store in Zenodo or external repository
+data/
+*.tif
+*.tiff
+*.vrt
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node (root-level)
+node_modules/
+
+# Next.js build output (also covered in frontend/.gitignore)
+frontend/.next/
+frontend/out/
+frontend/node_modules/

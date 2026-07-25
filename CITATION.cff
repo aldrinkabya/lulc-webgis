@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: >-
+  An Interactive WebGIS Platform for Multi-Temporal LULC
+  Monitoring in Bangladesh
+message: >-
+  If you use this software, please cite the accompanying
+  paper.
+type: software
+license: MIT
+repository-code: "https://github.com/aldrin-kabya/webgis-research-release"
