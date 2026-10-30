@@ -7,4 +7,4 @@ message: >-
   paper.
 type: software
 license: MIT
-repository-code: "https://github.com/aldrinkabya/webgis-research-release"
+repository-code: "https://github.com/aldrinkabya/lulc-webgis"

@@ -48,8 +48,8 @@ An open-source, browser-based WebGIS platform for visualizing and analyzing mult
 ### 1. Clone & Configure
 
 ```bash
-git clone https://github.com/aldrinkabya/webgis-research-release.git
-cd webgis-research-release
+git clone https://github.com/aldrinkabya/lulc-webgis.git
+cd lulc-webgis
 cp .env.example .env
 ```
 
