@@ -48,7 +48,7 @@ An open-source, browser-based WebGIS platform for visualizing and analyzing mult
 ### 1. Clone & Configure
 
 ```bash
-git clone https://github.com/aldrin-kabya/webgis-research-release.git
+git clone https://github.com/aldrinkabya/webgis-research-release.git
 cd webgis-research-release
 cp .env.example .env
 ```
